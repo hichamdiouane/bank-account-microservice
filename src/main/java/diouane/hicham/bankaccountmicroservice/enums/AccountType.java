@@ -1,4 +1,6 @@
 package diouane.hicham.bankaccountmicroservice.enums;
 
-public class AccountType {
+public enum AccountType {
+    CURRENT_ACCOUNT,
+    SAVING_ACCOUNT,
 }
